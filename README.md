@@ -39,7 +39,7 @@ While building this project, I practiced:
 
 ## Live Demo
 
-Coming soon.
+[View Live Demo.](https://mohamed-elbably-business-card.netlify.app/)
 
 ## Author
 
